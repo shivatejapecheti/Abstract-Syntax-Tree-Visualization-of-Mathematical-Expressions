@@ -20,16 +20,16 @@ Graph Visualization: Introduces graph plots for functions, aiding in understandi
 
 ## Experimental Results
 
-Test Case 0:  Basic Mixed Mathematical Expression with Variables:
-Input: a + b * (c - d) / e
+1. Test Case 0:  Basic Mixed Mathematical Expression with Variables:
+...Input: a + b * (c - d) / e
 ![Test case 0](https://github.com/shivatejapecheti/Abstract-Syntax-Tree-Visualization-of-Mathematical-Expressions/assets/126412107/27a68552-ee0b-4718-ad4a-02ea88c825c6)
 
-Test Case 1: Arithmetic, Trigonometric, and Exponential Functions with Variable Handling and Graph Visualization
-Input: a + b * c / d - sqrt(25) * exp(2)
+2. Test Case 1: Arithmetic, Trigonometric, and Exponential Functions with Variable Handling and Graph Visualization
+...Input: a + b * c / d - sqrt(25) * exp(2)
 ![Test case 1](https://github.com/shivatejapecheti/Abstract-Syntax-Tree-Visualization-of-Mathematical-Expressions/assets/126412107/45ae8cd0-54fc-4999-b54f-f37f834cc2ff)
 
-Test Case 2: Advanced Mathematical Expressions with Variables and Graph Visualization:
-Input: log(175)+2*(5*17)!-sin(x)-cot(y)+exp(10)+cosec(90)
+3. Test Case 2: Advanced Mathematical Expressions with Variables and Graph Visualization:
+...Input: log(175)+2*(5*17)!-sin(x)-cot(y)+exp(10)+cosec(90)
 ![test case 2](https://github.com/shivatejapecheti/Abstract-Syntax-Tree-Visualization-of-Mathematical-Expressions/assets/126412107/268caa6d-fd43-46ac-9255-628db3b97549)
 
 ## Applications
