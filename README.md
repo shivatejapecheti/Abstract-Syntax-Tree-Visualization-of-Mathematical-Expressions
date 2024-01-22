@@ -19,11 +19,11 @@ Error Handling: Robust error management for missing operators, unusual tokens, a
  
 ## Usage
 
- <div align="justify"> 1. Lexical Analysis: Tokenizes input mathematical expressions, identifying numbers, operators, functions, brackets, and variables.
+1. Lexical Analysis: Tokenizes input mathematical expressions, identifying numbers, operators, functions, brackets, and variables.
 2. Abstract Syntax Tree (AST): Constructs a hierarchical AST representing the expression's structure.
 3. Parsing Technique: Utilizes Recursive Descent Parsing for AST creation, applying grammar rules and maintaining operator precedence.
 4. Evaluation of Expressions: Recursively evaluates AST nodes for accurate numerical and variable results.
-5. Graph Visualization: Introduces graph plots for functions, aiding in understanding and analysis. </div>
+5. Graph Visualization: Introduces graph plots for functions, aiding in understanding and analysis.
 
 
 ## Experimental Results
