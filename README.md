@@ -20,18 +20,6 @@ Applications
 Academia: Useful for educators, students, and researchers for teaching and understanding complex mathematical concepts.
 Professionals: Facilitates precise mathematical modeling, simulations, and data analysis.
 Developers: A valuable tool for building applications requiring mathematical expression evaluation and visualization.
-Experimental Results
-Basic Mixed Mathematical Expression with Variables:
 
-Input: a + b * (c - d) / e
-Expected Result: 11
-Arithmetic, Trigonometric, and Exponential Functions with Variable Handling and Graph Visualization:
-
-Input: a + b * c / d - sqrt(25) * exp(2)
-Expected Result: 23.0547
-Advanced Mathematical Expressions with Variables and Graph Visualization:
-
-Input: log(175)+2*(5*17)!-sin(x)-cot(y)+exp(10)+cosec(90)
-Expected Result: 5.6342082287611e+128
 Conclusion
 This research work introduces an efficient and accurate approach to mathematical expression recognition and evaluation. The combination of Recursive Descent Parsing and AST ensures reliability, and the integration of graph visualization enhances understanding. The project's success in handling complex expressions and providing insightful visualizations showcases its potential for diverse applications.
