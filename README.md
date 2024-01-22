@@ -14,12 +14,11 @@ Presented research paper at CSITSS-2023 conference, showcasing expertise in the 
  
 
 ## Key Features
- <div align="justify">  
-..* AST-based Parsing: Accurate parsing of mathematical expressions using Abstract Syntax Trees.
-..* Interactive Graph Visualization: Visual representation of functions for intuitive understanding.
-..* Comprehensive Expression Handling: Accommodates a wide range of functions, variables, and mathematical operations.
-..* Error Handling: Robust error management for missing operators, unusual tokens, and syntax problems.
- </div>
+
+* AST-based Parsing: Accurate parsing of mathematical expressions using Abstract Syntax Trees.
+* Interactive Graph Visualization: Visual representation of functions for intuitive understanding.
+* Comprehensive Expression Handling: Accommodates a wide range of functions, variables, and mathematical operations.
+* Error Handling: Robust error management for missing operators, unusual tokens, and syntax problems.
  
 ## Usage
 
