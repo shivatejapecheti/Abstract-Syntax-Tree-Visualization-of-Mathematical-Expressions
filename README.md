@@ -15,10 +15,10 @@ Presented research paper at CSITSS-2023 conference, showcasing expertise in the 
 
 ## Key Features
  <div align="justify">  
-AST-based Parsing: Accurate parsing of mathematical expressions using Abstract Syntax Trees.
-Interactive Graph Visualization: Visual representation of functions for intuitive understanding.
-Comprehensive Expression Handling: Accommodates a wide range of functions, variables, and mathematical operations.
-Error Handling: Robust error management for missing operators, unusual tokens, and syntax problems.
+..* AST-based Parsing: Accurate parsing of mathematical expressions using Abstract Syntax Trees.
+..* Interactive Graph Visualization: Visual representation of functions for intuitive understanding.
+..* Comprehensive Expression Handling: Accommodates a wide range of functions, variables, and mathematical operations.
+..* Error Handling: Robust error management for missing operators, unusual tokens, and syntax problems.
  </div>
  
 ## Usage
@@ -52,9 +52,9 @@ Input: log(175)+2*(5*17)!-sin(x)-cot(y)+exp(10)+cosec(90)
 
 ## Applications
 
- <div align="justify"> Academia: Useful for educators, students, and researchers for teaching and understanding complex mathematical concepts.
-Professionals: Facilitates precise mathematical modeling, simulations, and data analysis.
-Developers: A valuable tool for building applications requiring mathematical expression evaluation and visualization. </div>
+1. Academia: Useful for educators, students, and researchers for teaching and understanding complex mathematical concepts.
+2. Professionals: Facilitates precise mathematical modeling, simulations, and data analysis.
+3. Developers: A valuable tool for building applications requiring mathematical expression evaluation and visualization. 
 
 
 ## Conclusion
