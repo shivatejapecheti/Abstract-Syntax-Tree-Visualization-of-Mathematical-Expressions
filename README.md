@@ -25,3 +25,5 @@ Developers: A valuable tool for building applications requiring mathematical exp
 
 ## Conclusion
 This research work introduces an efficient and accurate approach to mathematical expression recognition and evaluation. The combination of Recursive Descent Parsing and AST ensures reliability, and the integration of graph visualization enhances understanding. The project's success in handling complex expressions and providing insightful visualizations showcases its potential for diverse applications.
+
+Presented research paper at CSITSS-2023 conference, showcasing expertise in the conference's subject areas. Alt-Paper Link [https://ieeexplore.ieee.org/document/10334103]
