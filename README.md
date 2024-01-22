@@ -18,8 +18,8 @@ Parsing Technique: Utilizes Recursive Descent Parsing for AST creation, applying
 Evaluation of Expressions: Recursively evaluates AST nodes for accurate numerical and variable results.
 Graph Visualization: Introduces graph plots for functions, aiding in understanding and analysis.
 
-Inline-style: 
-![alt text]("C:\Users\tejad\OneDrive\Desktop\SEMESTERS\SEMiSTER 6\Modern compiler design\MCD_Overleaf\Test case 1.png" "Logo Title Text 1")
+![Test case 1](https://github.com/shivatejapecheti/Abstract-Syntax-Tree-Visualization-of-Mathematical-Expressions/assets/126412107/45ae8cd0-54fc-4999-b54f-f37f834cc2ff)
+
 
 ## Applications
 Academia: Useful for educators, students, and researchers for teaching and understanding complex mathematical concepts.
