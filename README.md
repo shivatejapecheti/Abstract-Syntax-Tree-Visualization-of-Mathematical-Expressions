@@ -2,26 +2,26 @@
 A versatile mathematical expression parser and evaluator for computational mathematics. Ideal for students, educators, and developers, it simplifies understanding, evaluation, and visualization of expressions. Valuable in education and programming, enabling hands-on learning and quick expression evaluation.
 
 
-##Overview
+## Overview
 This project presents a novel method for finding and evaluating mathematical expressions using Abstract Syntax Trees (AST). The approach is adaptable for both academic and professional applications, accurately parsing complex equations and accommodating a variety of mathematical operations. The AST model ensures a hierarchical expression structure, facilitating accurate and efficient evaluation. The project stands out by incorporating interactive graph visualization, simplifying mathematical computations for understanding and application.
 
-##Key Features
+## Key Features
 AST-based Parsing: Accurate parsing of mathematical expressions using Abstract Syntax Trees.
 Interactive Graph Visualization: Visual representation of functions for intuitive understanding.
 Comprehensive Expression Handling: Accommodates a wide range of functions, variables, and mathematical operations.
 Error Handling: Robust error management for missing operators, unusual tokens, and syntax problems.
 
-##Usage
+## Usage
 Lexical Analysis: Tokenizes input mathematical expressions, identifying numbers, operators, functions, brackets, and variables.
 Abstract Syntax Tree (AST): Constructs a hierarchical AST representing the expression's structure.
 Parsing Technique: Utilizes Recursive Descent Parsing for AST creation, applying grammar rules and maintaining operator precedence.
 Evaluation of Expressions: Recursively evaluates AST nodes for accurate numerical and variable results.
 Graph Visualization: Introduces graph plots for functions, aiding in understanding and analysis.
 
-##Applications
+## Applications
 Academia: Useful for educators, students, and researchers for teaching and understanding complex mathematical concepts.
 Professionals: Facilitates precise mathematical modeling, simulations, and data analysis.
 Developers: A valuable tool for building applications requiring mathematical expression evaluation and visualization.
 
-##Conclusion
+## Conclusion
 This research work introduces an efficient and accurate approach to mathematical expression recognition and evaluation. The combination of Recursive Descent Parsing and AST ensures reliability, and the integration of graph visualization enhances understanding. The project's success in handling complex expressions and providing insightful visualizations showcases its potential for diverse applications.
